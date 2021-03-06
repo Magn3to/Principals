@@ -1,13 +1,18 @@
 # Privacy Principals
-<!-- nice start, but a little more work required-->
-## Principal 6: Access to personal information 
-<!-- expand on each of these in your own words -->
 
- - [ ] None of the statistics will collect any information about customers and shopping habits
+## Principal 6: Access to personal information
+
+- In Principal 6 an individual has given permission to the agency to hold and access personal information.  
+
+## What is the purpose of accessing our personal information and why?
+
+ - [ ] It is collected by employees who need access to carry out a transaction
  - [ ] Information may be accesilbe to anyone engaged by a corporation
- <!-- these checklist items are supposed to be for a developer who is building a site, it seems that you are phrasing these towards an enduser -->
+ 
 
 ## Principal 1: Purpose of collection of personal information
+
+- 
 
  - [ ] Using personal information to any transactions 
  - [ ] Personal photo ID information are not needed unless collecting the goods from any PB stores
