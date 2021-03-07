@@ -12,11 +12,11 @@
 
 ## Principal 1: Purpose of collection of personal information
 
-- This principal is for a lawful purpose of collecting personal information connected with an agency.
+- This principal is for a lawful purpose of collecting personal information connected with an agency E.g Email, phone, emergency contact etc...
 
 ## Why is it important to collect the individuals personal information?
 
- - [ ] Using personal information to any transactions 
+ - [ ] The information is collected if a customers is making a purchase.
  - [ ] Personal photo ID information are not needed unless collecting the goods from a physical store
  
  ## Principal 5: Storage and security of personal information
