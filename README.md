@@ -21,6 +21,8 @@
  
  ## Principal 5: Storage and security of personal information
  
+ - The agency holds the information must ensure it's protected against unauthorised access.
+ 
  ## 
  
  - [ ] In system perspective, all information in the website is well protected
