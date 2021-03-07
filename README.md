@@ -2,11 +2,11 @@
 
 ## Principal 6: Access to personal information
 
-- In Principal 6 an individual has given permission to the agency to hold and access personal information.  
+- In Principal 6 an individual has given permission from the agency upon confirmation to hold and access personal information. 
 
 ## What is the purpose of accessing our personal information and why?
 
- - [ ] It is collected by employees who need access to carry out a transaction
+ - [ ] It is collected by employees who need access to carry out a transaction, if they are purchasing 
  - [ ] Information may be accesilbe to anyone engaged by a corporation
  
 
