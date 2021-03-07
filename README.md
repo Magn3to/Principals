@@ -4,15 +4,17 @@
 
 - In Principal 6 an individual has given permission from the agency upon confirmation to hold and access personal information. 
 
-## What is the purpose of accessing our personal information and why?
+## What is the purpose of accessing our personal information?
 
- - [ ] It is collected by employees who need access to carry out a transaction, if they are purchasing 
+ - [ ] It is collected by employees who need access to carry out a transaction
  - [ ] Information may be accesilbe to anyone engaged by a corporation
  
 
 ## Principal 1: Purpose of collection of personal information
 
-- 
+- This principal is for a lawful purpose of collecting personal information connected with an agency.
+
+## Why is it important to collect the individuals personal information?
 
  - [ ] Using personal information to any transactions 
  - [ ] Personal photo ID information are not needed unless collecting the goods from any PB stores
