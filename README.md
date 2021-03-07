@@ -2,7 +2,7 @@
 
 ## Principal 6: Access to personal information
 
--- In Principal 6 an individual has given permission from the agency upon confirmation to hold and access personal information. 
+- In Principal 6 an individual has given permission from the agency upon confirmation to hold and access personal information. 
 
 ## What is the purpose of accessing our personal information?
 
@@ -17,7 +17,7 @@
 ## Why is it important to collect the individuals personal information?
 
  - [ ] Using personal information to any transactions 
- - [ ] Personal photo ID information are not needed unless collecting the goods from any PB stores
+ - [ ] Personal photo ID information are not needed unless collecting the goods from a physical store
  
  ## Principal 5: Storage and security of personal information
  
