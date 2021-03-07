@@ -2,7 +2,7 @@
 
 ## Principal 6: Access to personal information
 
-- In Principal 6 an individual has given permission from the agency upon confirmation to hold and access personal information. 
+-- In Principal 6 an individual has given permission from the agency upon confirmation to hold and access personal information. 
 
 ## What is the purpose of accessing our personal information?
 
