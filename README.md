@@ -21,9 +21,15 @@
  
  ## Principal 5: Storage and security of personal information
  
- - If an individual is using personal information like credit card, addresses and identity. Its the agencies reponsibility to secure details of  
+ - If an individual is using personal information like credit card, addresses and identity. Its the agencies reponsibility to secure details of unauthorised use or access. This includes misusing information they are not entitled to as a task. 
  
- ## What  
+ ## Why would we protect the individuals information if willing to make a purchase with an organisation?   
  
- - [ ] In system perspective, all information in the website is well protected
- - [ ] Keep your login ID and password confidential
+ - [ ] Misuse of information would breach the individuals privacy an will be fined $10,000
+ - [ ] Keeping your login ID and password confidential
+
+
+
+
+
+
