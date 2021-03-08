@@ -29,7 +29,19 @@
  - [ ] Keeping your login ID and password confidential
 
 
+## Principal 8: Accuracy
+
+- It is the agencies responsibility to ensure the personal information is accurate before using it.
+
+## Why does accuracy matter for the individuals personal information?
+
+- [ ] The agency that holds the information must not take any futher steps that are reasonable with individuals permission
+- [ ] The individual can update the information of details so the agency takes instruction accurately.
 
 
+## Principal 9: Agency not to keep personal information for longer than necessary
+
+
+-[ ] 
 
 
