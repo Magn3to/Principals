@@ -2,7 +2,7 @@
 
 ## Principal 6: Access to personal information
 
-- In Principal 6 an individual has given permission from the agency upon confirmation to hold and access personal information. While people have the right to access to the information required. Agencies may refuse requests. Eg. giving away the persons information would endanger the safety of someone. 
+- In Principal 6 an individual has given permission from the agency upon confirmation to hold and access personal information. While people have the right to access to the information required. Agencies may refuse requests. Eg., giving away the persons information would endanger the safety of someone. 
 
 ## What is the purpose of accessing our personal information?
 
@@ -12,7 +12,7 @@
 
 ## Principal 1: Purpose of collection of personal information
 
-- This principal is for a lawful purpose of collecting personal information connected with an agency E.g Email, phone, emergency contact, address. The goal for is collecting and use minimal data of the individuals information. This is data minimalisation.
+- This principal is for a lawful purpose of collecting personal information connected with an agency Eg., Email, phone, emergency contact, address. The goal for is collecting and use minimal data of the individuals information. This is data minimalisation.
 
 ## Why is it important to collect the individuals personal information?
 
@@ -21,7 +21,7 @@
  
  ## Principal 5: Storage and security of personal information
  
- - If an individual is using personal information like credit card, addresses and identity. Its the agencies reponsibility to secure details of unauthorised use or access. This includes misusing information they are not entitled to as a task. 
+ - If an individual is using personal information like credit card, addresses and identity. It is the agencies reponsibility to secure details of unauthorised use or access. This includes misusing information they are not entitled to as a task. 
  
  ## Why would we protect the individuals information if willing to make a purchase with an organisation?   
  
