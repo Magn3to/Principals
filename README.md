@@ -12,7 +12,7 @@
 
 ## Principal 1: Purpose of collection of personal information
 
-- This principal is for a lawful purpose of collecting personal information connected with an agency E.g Email, phone, emergency contact. The goal for is collecting and use minimal data of the individuals information. This is data minimalisation.
+- This principal is for a lawful purpose of collecting personal information connected with an agency E.g Email, phone, emergency contact, address. The goal for is collecting and use minimal data of the individuals information. This is data minimalisation.
 
 ## Why is it important to collect the individuals personal information?
 
@@ -41,7 +41,11 @@
 
 ## Principal 9: Agency not to keep personal information for longer than necessary
 
+- An agency can keep information as long as required its purposes, which the information may be used for a lawfully purpose.
 
--[ ] 
+## How come the agency cannot keep the personal information for a long period?
+
+- [ ] The agency will keep the information as long as its needed until its rendered anonymous
+- [ ] It is the agencies decision for how long you have a lawful purpose to use the information that is collected
 
 
