@@ -21,7 +21,7 @@
  
  ## Principal 5: Storage and security of personal information
  
- - If an individual is using personal information like credit card, addresses and identity. It is the agencies reponsibility to secure details of unauthorised use or access. This includes misusing information they are not entitled to as a task. 
+ - If an individual is using personal information like credit card, addresses and identity. It is the agencies reponsibility to secure details of unauthorised use or access using Transport layer security (TLS). This includes misusing information they are not entitled to as a task. 
  
  ## Why would we protect the individuals information if willing to make a purchase with an organisation?   
  
