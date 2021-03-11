@@ -9,7 +9,7 @@
  - [ ] It is collected by employees who need access to carry out a transaction
  - [ ] Information may be accesilbe to anyone engaged by a corporation
  
-
+<!-- All good to submit, these are good, but I do recommend tht you look at useer stores, cheers -->
 ## Principal 1: Purpose of collection of personal information
 
 - This principal is for a lawful purpose of collecting personal information connected with an agency Eg., Email, phone, emergency contact, address. The goal for is collecting and use minimal data of the individuals information. This is data minimalisation.
