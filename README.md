@@ -49,3 +49,40 @@
 - [ ] It is the agencies decision for how long you have a lawful purpose to use the information that is collected
 
 
+## Privacy Policies
+
+# 1.We collect personal information from you, including information about your: 
+
+- Name 
+
+- Contact information 
+
+- Billing or purchase information 
+
+ 
+
+# 2.We collect your personal information in order to: 
+
+- disclose information if no longer needed 
+
+- Prevent unauthorized use of information if a third party is disclosed 
+
+ 
+
+# 3.Besides our staff, we share this information with: 
+
+- a third party in order to Information that may be of interest. 
+
+
+- We keep your information safe by Transport layer Security (TLS) and Administrators will allow access for secure purpose . 
+
+
+- We keep your information for two years at which point we securely destroy it by rendering it anonymous. 
+
+ 
+
+ 
+
+# 4. You have the right to ask for a copy of any personal information we hold about you, and to ask for it to be corrected if you think it is wrong. If you’d like to ask for a copy of your information, or to have it corrected, please contact us at jhawan1@gmail.com, or 0212210021, or 34 Bukem Place, Favona. 
+
+ 
