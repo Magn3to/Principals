@@ -82,7 +82,50 @@
  
 
  
+# 4. Contact
 
-# 4. You have the right to ask for a copy of any personal information we hold about you, and to ask for it to be corrected if you think it is wrong. If you’d like to ask for a copy of your information, or to have it corrected, please contact us at jhawan1@gmail.com, or 0212210021, or 34 Bukem Place, Favona. 
+You have the right to ask for a copy of any personal information we hold about you, and to ask for it to be corrected if you think it is wrong. If you’d like to ask for a copy of your information, or to have it corrected, please contact us at jhawan1@gmail.com, or 0212210021, or 34 Bukem Place, Favona. 
+
+ 
+## Chosen Website for policies
+
+Mighty ape is a New Zealand online store to both North and South Island including overseas. The store has different brands to shop for E.g., electronics, clothing, house appliances, Office furniture etc. It has core values for the business to grow a strong team with support for customers, focusing service and fast delivery. 
+
+ 
+
+The data collected for this website is carrying out obligations arising from any contacts between the individual and the organization to provide the information requested. To notify changes to their service and provide or permit selected third parties with the information about goods or services if he/she feels of interest. 
+
+Information they collected from the individual, they will use it to administer their website and for internal operations, including troubleshooting, research, statistical and survey purposes. They improve the content in the most effective manner, to allow participation in features when chosen and make suggestions for users for interest. 
+
+ 
+
+
+# Principal 1: 
+
+Information given to mighty ape collecting from forms or corresponding by e-mail, chat via surveys. The information provided or entered financial transactions through the website.  
+
+ 
+
+# Principal 5: 
+
+The company is aware about the confidentiality of their personal information. From both Technical and systems perspective, is to make sure of every information is well protected. They advise as well to protect and not share the login and password publicly. 
+
+ 
+
+# Principal 6: 
+
+The website has access to the individual’s personal information to carry transactions troubleshooting, testing and survey purposes presented in the most effective manner for the individual and his/her computer. 
+
+ 
+
+# Principal 8: 
+
+The details of the personal information given to the website must be identical from a purchase that is made from the same individual.  
+
+ 
+
+# Principal 9: 
+
+The website will terminate the personal information if they need for business purposes and meet legal requirements. The website will destroy the information when it is no longer needed. 
 
  
